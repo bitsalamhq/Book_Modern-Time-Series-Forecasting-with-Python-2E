@@ -138,6 +138,7 @@ dmypy.json
 cython_debug/
 #Exclude Data Folder
 /data/
+/modern_ts_2E/
 notebooks/Chapter17/data/
 #Exclude imgs folder
 imgs/
